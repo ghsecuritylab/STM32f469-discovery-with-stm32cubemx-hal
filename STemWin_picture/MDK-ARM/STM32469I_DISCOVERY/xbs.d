@@ -1,0 +1,9 @@
+stm32469i_discovery\xbs.o: ..\Src\xbs.c
+stm32469i_discovery\xbs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32469i_discovery\xbs.o: ../../../../../../Middlewares/ST/STemWin/inc/GUI.h
+stm32469i_discovery\xbs.o: ../../../../../../Middlewares/ST/STemWin/inc/GUI_ConfDefaults.h
+stm32469i_discovery\xbs.o: ../Inc/GUIConf.h
+stm32469i_discovery\xbs.o: ../../../../../../Middlewares/ST/STemWin/inc/GUI_Type.h
+stm32469i_discovery\xbs.o: ../../../../../../Middlewares/ST/STemWin/inc/LCD.h
+stm32469i_discovery\xbs.o: ../../../../../../Middlewares/ST/STemWin/inc/Global.h
+stm32469i_discovery\xbs.o: ../../../../../../Middlewares/ST/STemWin/inc/GUI_Version.h
